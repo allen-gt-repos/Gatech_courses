@@ -3,10 +3,10 @@
 	url = https://github.com/allenwang-git/ECE6607_project.git
 [submodule "ECE6122-labs"]
 	path = ECE6122-labs
-	url = https://github.com/allenwang-git/ECE6122.git
+	url = https://github.com/allenwang-git/ECE6122-labs.git
 [submodule "ECE6100-labs"]
 	path = ECE6100-labs
-	url = https://github.com/allenwang-git/ECE6100.git
+	url = https://github.com/allenwang-git/ECE6100-labs.git
 [submodule "ECE6255-team-project"]
 	path = ECE6255-team-project
 	url = https://github.com/allenwang-git/ECE6255-team-project.git
@@ -18,7 +18,10 @@
 	url = https://github.com/allenwang-git/ECE7785-Robotics-Assignments.git
 [submodule "CS6400-project"]
 	path = CS6400-project
-	url = https://github.com/allenwang-git/CS6400.git
+	url = https://github.com/allenwang-git/CS6400-project.git
 [submodule "ECE6780-HackathonCovid19Proj"]
 	path = ECE6780-HackathonCovid19Proj
 	url = https://github.com/allenwang-git/ECE6780-HackathonCovid19Proj.git
+[submodule "ECE6607-team-project"]
+	path = ECE6607-team-project
+	url = https://github.com/allenwang-git/ECE6607-team-project.git
